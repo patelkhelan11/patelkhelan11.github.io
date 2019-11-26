@@ -10,8 +10,7 @@ baseurl:
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: www.linkedin.com/in/koralpatel
-
+    url: https://www.linkedin.com/in/koralpatel/
 
 # Google webmaster tools
 google_verify:
